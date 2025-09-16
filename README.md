@@ -1,6 +1,8 @@
 ## Principios SOLID
 
-Los principios SOLID son cinco principios fundamentales del diseño de software orientado a objetos que nos ayudan a crear código más mantenible, flexible y escalable.
+![PORTADA-SOLID](SOLID-IMAGE.png)
+
+Los principios SOLID son **cinco principios fundamentales del diseño de software orientado a objetos** que nos ayudan a crear código más mantenible, flexible y escalable.
 
 ### Pero ¿Qué significa SOLID?
 
