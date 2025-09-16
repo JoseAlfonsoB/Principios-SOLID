@@ -1,6 +1,6 @@
 ## Principios SOLID
 
-![PORTADA-SOLID](SOLID-IMAGE.png)
+<img src="./IMGs/SOLID-IMAGE.png" style="width: 100%; height:400px; margin: 0; border-radius: 10px;">
 
 Los principios SOLID son **cinco principios fundamentales del diseño de software orientado a objetos** que nos ayudan a crear código más mantenible, flexible y escalable.
 
