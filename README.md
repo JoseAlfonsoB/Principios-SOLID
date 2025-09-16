@@ -34,3 +34,19 @@ Imagina que estás construyendo con bloques de LEGO. Los principios SOLID son co
 **I - No necesitas todo el set** <ins>_No necesitas comprar un set gigante de 1000 piezas si solo quieres construir un auto pequeño_</ins>. En código: solo usa las funciones que realmente necesitas.
 
 **D - Usa las instrucciones, no inventes** <ins>_En lugar de adivinar cómo armar algo, sigues las instrucciones del manual_</ins>. En código: usa las "instrucciones" (interfaces) en lugar de depender de piezas específicas.
+
+### Analogía: Los Principios SOLID como una Cocina
+
+Imagina que estás organizando una cocina profesional:
+
+**S - Single Responsibility (Chef especializado)** Cada chef tiene una especialidad: uno hace ensaladas, otro hace sopas, otro postres. Nadie trata de hacer todo porque sería un caos. Si necesitas cambiar la receta de postres, solo hablas con el chef de postres.
+
+**O - Open/Closed (Menú expandible)** Puedes agregar nuevos platos al menú sin cambiar la cocina completa. Instalas una nueva estación para sushi sin tocar la parrilla o la freidora.
+
+**L - Liskov Substitution (Chefs intercambiables)** Si el chef de ensaladas se enferma, otro chef de ensaladas puede tomar su lugar y todo funciona igual. Los clientes siguen recibiendo sus ensaladas perfectas.
+
+**I - Interface Segregation (Órdenes específicas)** El chef de postres no necesita saber cómo hacer hamburguesas. Cada chef recibe solo las órdenes de su especialidad, no todo el libro de recetas del restaurante.
+
+**D - Dependency Inversion (Recetas estándar)** Los chefs siguen recetas estándar, no inventan sobre la marcha. Si cambias de proveedor de tomates, la receta sigue siendo la misma; solo cambias el ingrediente.
+
+**En resumen**: Una cocina bien organizada (código SOLID) funciona mejor, es más fácil de manejar y cuando algo falla, sabes exactamente dónde está el problema y cómo solucionarlo sin afectar el resto.
