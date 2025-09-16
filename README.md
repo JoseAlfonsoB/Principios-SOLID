@@ -14,4 +14,4 @@ Los principios SOLID son cinco principios fundamentales del diseño de software 
 
 **I** - **Interface Segregation Principle (Principio de Segregación de Interfaces)** **Los clientes no deben depender de interfaces que no utilizan**. Es mejor tener muchas interfaces específicas que una interfaz general y monolítica.
 
-**D** - **Dependency Inversion Principle (Principio de Inversión de Dependencias)** **Los módulos de alto nivel no deben depender de módulos de bajo nivel**. Ambos deben depender de abstracciones. Las abstracciones no deben depender de los detalles, sino que los detalles deben depender de las abstracciones.
+**D** - **Dependency Inversion Principle (Principio de Inversión de Dependencias)** <ins>Los módulos de alto nivel no deben depender de módulos de bajo nivel<ins>. Ambos deben depender de abstracciones. Las abstracciones no deben depender de los detalles, sino que los detalles deben depender de las abstracciones.
